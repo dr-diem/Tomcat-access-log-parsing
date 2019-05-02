@@ -1,4 +1,4 @@
-# Tomcat-access-log-parsing
+# Tomcat access log parser
 This is an awk script to parse Tomcat's access log for fun and profit
 
 In order to enable the Tomcat access log, the following clause needs to be added to server.xml:
